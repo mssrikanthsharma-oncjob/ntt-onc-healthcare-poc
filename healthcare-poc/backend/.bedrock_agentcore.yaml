@@ -32,7 +32,7 @@ agents:
     bedrock_agentcore:
       agent_id: ntthealthcarepoc-08VhUO8GkQ
       agent_arn: arn:aws:bedrock-agentcore:us-east-1:492140153937:runtime/ntthealthcarepoc-08VhUO8GkQ
-      agent_session_id: 9cdbed3e-5e22-4332-91d8-7d6dd3b76e2a
+      agent_session_id: null
     codebuild:
       project_name: null
       execution_role: null
